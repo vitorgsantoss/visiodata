@@ -72,15 +72,3 @@ VisioData é uma aplicação desenvolvida para facilitar o upload, processamento
    ```bash
    python home.py
    ```
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE no repositório.
-
----
-
-*Observação*: Este arquivo README foi gerado com base na estrutura atual do repositório e pode ser atualizado conforme o desenvolvimento do projeto avance.
