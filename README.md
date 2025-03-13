@@ -67,7 +67,16 @@ VisioData é uma aplicação desenvolvida para facilitar o upload, processamento
    pip install -r requirements.txt
    ```
 
-6. Execute a aplicação:
+6. Crie o arquivo .env conforme .env_example:
+    - Acesse o link: 
+    https://aistudio.google.com/apikey
+
+    - Gere sua chave de API e coloque-a como valor de API_KEY em .env
+    ```bash
+   API_KEY = Insira aqui a sua chave de API
+   ```
+
+7. Execute a aplicação:
 
    ```bash
    python home.py
