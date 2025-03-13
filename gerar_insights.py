@@ -47,7 +47,6 @@ def extrair_html(texto):
         fim = texto.find('</html>')
         template = texto[inicio:fim]+'</html>'
         return template
-    print(texto)
     return f'Houve um problema ao gerar insights, tente novamente'
 
 

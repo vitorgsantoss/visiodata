@@ -1,7 +1,7 @@
 
 # VisioData
 
-VisioData é uma aplicação desenvolvida para facilitar o upload, processamento e visualização de dados, permitindo a geração de insights de forma eficiente e intuitiva.
+VisioData é uma aplicação desenvolvida para facilitar o tratamento de dados em planilhas e obter insights relevantes das informações, incluindo padrões de vendas, produtos mais vendidos, variações sazonais e possíveis melhorias para contribuir para o desenvolvimento da empresa.
 
 ## Funcionalidades
 
@@ -26,6 +26,10 @@ VisioData é uma aplicação desenvolvida para facilitar o upload, processamento
 ## Tecnologias Utilizadas
 
 - **Python**: Linguagem principal utilizada no desenvolvimento da aplicação.
+
+## Requisitos
+- **Python** e **git**: Caso não possua, é necessário fazer a instalação dessas ferramentas para utilizar a aplicação.
+
 
 ## Instalação e Execução
 
