@@ -1,0 +1,9 @@
+.env
+
+__pycache__
+
+dados_producao_limpos.csv
+
+*.pdf
+
+venv

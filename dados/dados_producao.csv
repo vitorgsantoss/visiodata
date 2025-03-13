@@ -1,0 +1,101 @@
+id_venda;modelo;quantidade;preco_unitario;data_venda;Concessionária
+1;Maverick;4.0;116496.6;2024-01-08;AutoFord
+2;Territory;4.0;94930.25;2024-02-19;Top Ford
+3;Fusion;3.0;283962.88;2024-01-01;Ford Center
+4;Mustang;;133819.61;2024-02-13;Blue Ford
+5;Fiesta;2.0;167705.31;2024-01-07;Top Ford
+6;Focus;4.0;180094.55;2024-01-02;Ford Center
+7;EcoSport;2.0;198670.87;2024/01/31;Top Ford
+8;EcoSport;2.0;143370.69;2024-01-22;Blue Ford
+9;EcoSport;1.0;163926.55;2024-01-21;AutoFord
+10;Maverick;1.0;;30/01/2024;Top Ford
+11;Ranger;1.0;193672.3;2024-02-08;Ford Sul
+12;Maverick;1.0;88917.79;13/01/2024;Ford Center
+13;Bronco;4.0;223766.55;2024-02-03;Ford Sul
+14;Maverick;2.0;249553.81;2024-02-10;Top Ford
+15;Mustang;2.0;193555.22;2024-03-01;Ford Sul
+16;EcoSport;3.0;95232.76;07/02/2024;AutoFord
+17;Fusion;1.0;262409.83;2024-01-15;Blue Ford
+18;Ka;4.0;140942.38;2024-02-05;Ford Center
+19;Fusion;4.0;231984.04;2024-01-09;Ford Center
+20;Territory;3.0;116516.75;2024-03-01;Ford Sul
+21;Focus;1.0;76093.77;2024-01-01;Blue Ford
+22;Mustang;1.0;148398.06;2024-02-23;Ford Center
+23;Focus;3.0;236760.45;2024-01-01;Blue Ford
+24;Mustang;1.0;153602.75;2024-02-23;Blue Ford
+25;Mustang;5.0;165330.0;2024-03-01;AutoFord
+26;EcoSport;3.0;104155.61;2024-02-03;Ford Center
+27;Ranger;1.0;77266.06;2024-01-06;AutoFord
+28;Fusion;2.0;185583.52;2024-01-20;Ford Center
+29;Fiesta;3.0;84503.75;2024-02-04;Blue Ford
+30;Mustang;1.0;234766.14;2024-01-07;Blue Ford
+31;Maverick;5.0;244342.64;2024-01-06;Prime Ford
+32;Territory;1.0;265156.27;2024-02-06;Blue Ford
+33;Mustang;5.0;270331.89;2024-02-09;AutoFord
+34;EcoSport;5.0;85481.03;2024-01-07;Ford Center
+35;Ranger;1.0;158787.75;2024-02-17;Blue Ford
+36;EcoSport;1.0;290765.77;2024-02-26;Ford Center
+37;Fusion;5.0;77075.41;23/02/2024;Ford Sul
+38;Focus;5.0;68626.83;2024-01-13;AutoFord
+39;Mustang;2.0;110541.83;2024-02-14;Top Ford
+40;Territory;3.0;178183.34;2024-01-09;Blue Ford
+41;Bronco;1.0;250512.28;2024-02-02;Blue Ford
+42;Focus;3.0;246952.33;2024-02-13;Ford Center
+43;EcoSport;1.0;58154.32;2024-02-08;Ford Sul
+44;Focus;5.0;181481.96;2024-01-30;Top Ford
+45;Maverick;3.0;268189.8;2024-02-13;Blue Ford
+46;Ka;4.0;288386.67;2024-02-21;AutoFord
+47;EcoSport;4.0;124497.69;2024-02-11;Prime Ford
+48;Bronco;3.0;85215.98;25-02-2024;Top Ford
+49;Maverick;1.0;215584.45;2024-02-11;Blue Ford
+50;Mustang;2.0;97745.0;2024-02-21;AutoFord
+51;Territory;3.0;217317.74;2024-01-30;Ford Sul
+52;Bronco;3.0;54782.75;2024-02-29;Top Ford
+53;Fusion;3.0;124456.19;2024-01-08;Top Ford
+54;Bronco;3.0;50543.44;2024-01-03;Ford Sul
+55;EcoSport;4.0;65201.62;2024-01-31;AutoFord
+56;Mustang;4.0;146641.36;2024-01-16;Ford Center
+57;Fiesta;3.0;188105.1;07-02-2024;Ford Center
+58;Maverick;5.0;82329.63;2024-02-17;Blue Ford
+59;Focus;1.0;;2024-01-24;Ford Sul
+60;Fiesta;4.0;193199.93;2024/02/24;Blue Ford
+61;Ranger;4.0;201981.71;2024-01-24;Ford Sul
+62;Ranger;5.0;91188.47;2024-01-01;Top Ford
+63;EcoSport;;138749.61;2024-02-06;Ford Sul
+64;Focus;2.0;81044.6;2024-02-18;Ford Sul
+65;Ka;2.0;286294.34;12-02-2024;Top Ford
+66;EcoSport;4.0;235632.29;2024/01/09;Top Ford
+67;Territory;1.0;135832.38;2024-01-15;Top Ford
+68;Territory;5.0;249592.36;2024/01/25;AutoFord
+69;Mustang;2.0;283711.13;2024-01-17;Top Ford
+70;Mustang;4.0;137162.97;2024-01-27;Top Ford
+71;Mustang;4.0;226530.22;2024-01-08;Ford Center
+72;Mustang;1.0;74228.27;2024-01-31;Top Ford
+73;Fusion;;107665.01;2024-02-18;AutoFord
+74;Territory;2.0;;2024-01-05;Blue Ford
+75;EcoSport;4.0;;2024-02-07;Ford Sul
+76;Fiesta;3.0;211580.54;17-02-2024;Top Ford
+77;Fusion;3.0;123498.5;2024-02-29;Blue Ford
+78;Mustang;1.0;;08/02/2024;Prime Ford
+79;Ranger;3.0;182920.9;2024-02-26;AutoFord
+80;Ranger;5.0;125233.95;2024.01.09;Ford Center
+81;Maverick;5.0;117861.22;2024-01-31;Blue Ford
+82;Mustang;1.0;93566.26;2024-01-16;Ford Center
+83;Bronco;5.0;177326.33;2024-01-15;Ford Center
+84;Territory;4.0;84147.83;2024-02-01;Ford Sul
+85;Mustang;4.0;88254.09;2024-02-19;Prime Ford
+86;EcoSport;2.0;297354.88;2024-01-19;AutoFord
+87;Focus;4.0;68110.83;2024-02-21;Blue Ford
+88;Bronco;;208035.85;2024-02-22;Blue Ford
+89;EcoSport;1.0;82809.11;2024-01-13;Ford Sul
+90;EcoSport;4.0;64531.92;2024-01-13;Top Ford
+91;Focus;;216146.7;31-01-2024;Top Ford
+92;EcoSport;4.0;170349.53;2024-01-03;Ford Sul
+93;Ka;5.0;71136.95;2024-02-21;Top Ford
+94;Ka;1.0;215683.63;2024-01-13;Ford Center
+95;Ranger;5.0;52882.8;2024-01-29;Blue Ford
+79;Ranger;3.0;182920.9;2024.02.26;AutoFord
+30;Mustang;1.0;234766.14;07/01/2024;Blue Ford
+90;EcoSport;4.0;64531.92;2024.01.13;Top Ford
+17;Fusion;1.0;262409.83;2024-01-15;Blue Ford
+35;Ranger;1.0;158787.75;2024-02-17;Blue Ford
